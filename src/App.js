@@ -18,6 +18,7 @@ function App() {
         <Route path='/login' element></Route>
         <Route path='*' element></Route>
       </Routes>
+      <Home></Home>
     </div>
   );
 }
